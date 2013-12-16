@@ -1,0 +1,19 @@
+{
+  "name": "givebacksf-api",
+  "description": "datastore for givebacksf",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "3.4.7",
+    "mongoose": "3.8.1"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "main": "server.js",
+  "devDependencies": {
+    "nodemon": "~0.7.10"
+  },
+  "author": "Jason Lally",
+  "license": "MIT"
+}

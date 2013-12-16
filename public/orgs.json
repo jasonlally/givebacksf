@@ -1,0 +1,42 @@
+[
+  {
+    "org": "Community Housing Partnership",
+    "about-page": "http://www.chp-sf.org/about/",
+    "about": "Founded in 1990, Community Housing Partnership is the only San Francisco nonprofit organization exclusively dedicated to providing permanent, supportive housing to formerly homeless individuals and families. Community Housing Partnership owns or manages eleven buildings with over 900 units, with an additional 144 units in development. These supportive residences address the needs of seniors, families with young children, youth at risk of homelessness, and adults with physical or cognitive disorders. We provide an essential and comprehensive network of services including job training and placement opportunities, a social enterprise, family and youth programs, substance abuse treatment and community organizing. These services annually impact the lives of over 2,000 formerly homeless adults and children by supporting them in retaining their housing and leading stable, productive lives.",
+    "volunteer": "",
+    "donate": "http://www.chp-sf.org/donate/",
+    "donate-email": "jason.lally+testing@gmail.com",
+    "social": {
+      "twitter": "https://twitter.com/CHP_SF",
+      "facebook": "https://www.facebook.com/communityhousingpartnership",
+      "youtube": "http://www.youtube.com/user/CommunityHousingPart",
+      "newsletter": "http://www.chp-sf.org/stay-updated/"
+    }
+  },
+  {
+    "org": "Compass Family Services",
+    "about-page": "http://compass-sf.org/about",
+    "about": "Compass Family Services helps homeless families and families at imminent risk for homelessness to achieve housing stability, family well-being, and self-sufficiency. \\n Our seven programs provide services to more than 3,500 parents and children each year, 50% of whom are under age 18.  Of our 80+ staff members, 57% are people of color, 73% are women, and more than 20% have been homeless and bring firsthand knowledge to their work with clients.",
+    "volunteer": "http://compass-sf.org/get-involved/volunteer",
+    "donate": "https://compass.secure.nonprofitsoapbox.com/donate",
+    "donate-email": "jason.lally+testing@gmail.com",
+    "social": {
+      "twitter": "https://twitter.com/compasssf",
+      "facebook": "https://www.facebook.com/CompassFamilyServices",
+      "youtube": "http://www.youtube.com/user/CompassSF",
+      "newsletter": "https://app.e2ma.net/app2/audience/signup/1417041/1408124/",
+      "linkedin": "http://www.linkedin.com/company/compass-family-services"
+    }
+  },
+  {
+    "org": "Edgewood Center for Children and Families",
+    "about-page": "http://www.edgewood.org/whoweare",
+    "about": "Edgewood Center for Children and Families (Edgewood) helps children and families take back their future by working with them to overcome severe challenges like abuse, neglect, mental illness and crisis. The oldest children's charity in the western U.S., Edgewood has evolved to meet the community’s changing needs. What began as a refuge for Gold Rush orphans is now a nationally recognized, multifaceted agency. Edgewood serves more than 7,000 children and families in the Bay Area each year through behavioral health, family support, and educational services. Edgewood: transforming lives, restoring hope.",
+    "volunteer": "http://www.edgewood.org/getinvolved/volunteer",
+    "donate": "https://secure.ga6.org/08/edgewooddonations",
+    "donate-email": "jason.lally+testing@gmail.com",
+    "social": {
+      "newsletter": "http://www.edgewood.org/index.html"
+    }
+  }
+]
